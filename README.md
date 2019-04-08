@@ -7,3 +7,9 @@
 #### 数据集
 1. resume: `ResumeNER/train.char.bmes`, `ResumeNER/test.char.bmes`,  `ResumeNER/dev.char.bmes`
 2. Weibo NER: `/data/weiboNER.conll.train.txt`, `/data/weiboNER.conll.test.txt`, `/data/weiboNER.conll.dev.txt`
+
+#### 环境
+```
+python 3.6
+pytorch 1.0.1
+```
